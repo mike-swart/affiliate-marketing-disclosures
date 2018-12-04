@@ -32,6 +32,9 @@
 ||apple.com/*?afid=
 ||apple.com/*&afid=
 
+!Audible
+||audible.com/ep/
+
 !Audiobooks
 ||affiliates.audiobooks.com/*?a_aid=*&a_bid=
 ||affiliates.audiobooks.com/*?a_bid=*&a_aid=

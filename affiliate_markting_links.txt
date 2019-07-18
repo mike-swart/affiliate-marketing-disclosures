@@ -6,6 +6,9 @@
 ||performance.affiliaxe.com/*?aff_id=
 ||performance.affiliaxe.com/*&aff_id=
 
+!airbnb
+||airbnb.com/c/
+
 !AliExpress
 ||s.aliexpress.com/*?af=
 ||s.aliexpress.com/*&af=
@@ -163,6 +166,14 @@
 !RewardStyle
 ||rstyle.me^
 
+!Robinhood
+||referral.robinhood.com
+||share.robinhood.com
+
+!SeatGeek
+||seatgeek.com/promos?aid=
+||seatgeek.com/promos*&aid=
+
 !ShopStyle
 ||shopstyle.it^
 
@@ -175,6 +186,12 @@
 ||apessay.com/*?rid=
 ||apessay.com/*&rid=
 
+!SquareSpace
+||squarespace.com/*?channel=youtube
+||squarespace.com/*&channel=youtube
+||squarespace.com/*?subchannel=
+||squarespace.com/*&subchannel=
+
 !TataCLiQ
 ||tatacliq.com/*?cid=af:
 ||tatacliq.com/*&cid=af:
@@ -182,6 +199,10 @@
 !Thermoworks
 ||thermoworks.com/*?tw=
 ||thermoworks.com/*&tw=
+
+!Winc
+||winc.com/try/*?caid=
+||winc.com/try/*&caid=
 
 !Zaful
 ||zaful.com/*?lkid=
